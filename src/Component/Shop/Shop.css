@@ -1,0 +1,16 @@
+.shop-container {
+  display: grid;
+  grid-template-columns: 3fr 1fr;
+  /* border: 2px solid whitesmoke; */
+  margin: 20px;
+}
+.course-handle {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-gap: 10px;
+}
+.cart-handle {
+  border: 2px solid whitesmoke;
+  border-radius: 15px;
+  margin-left: 10px;
+}

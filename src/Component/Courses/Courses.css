@@ -1,0 +1,18 @@
+.image-size img {
+  height: 200px;
+  width: 200px;
+  border-radius: 200px;
+}
+.course-style {
+  background-color: rgba(241, 241, 227, 0.438);
+  border: 2px solid whitesmoke;
+  padding: 10px;
+  text-align: center;
+  border-radius: 15px;
+}
+.button-style {
+  width: 150px;
+  padding: 5px;
+  background-color: goldenrod;
+  cursor: pointer;
+}
